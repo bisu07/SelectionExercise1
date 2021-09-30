@@ -1,0 +1,14 @@
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\bin\Debug\netcoreapp3.1\SelectionExcercise.exe
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\bin\Debug\netcoreapp3.1\SelectionExcercise.deps.json
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\bin\Debug\netcoreapp3.1\SelectionExcercise.runtimeconfig.json
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\bin\Debug\netcoreapp3.1\SelectionExcercise.runtimeconfig.dev.json
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\bin\Debug\netcoreapp3.1\SelectionExcercise.dll
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\bin\Debug\netcoreapp3.1\SelectionExcercise.pdb
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\obj\Debug\netcoreapp3.1\SelectionExcercise.csproj.AssemblyReference.cache
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\obj\Debug\netcoreapp3.1\SelectionExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\obj\Debug\netcoreapp3.1\SelectionExcercise.AssemblyInfoInputs.cache
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\obj\Debug\netcoreapp3.1\SelectionExcercise.AssemblyInfo.cs
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\obj\Debug\netcoreapp3.1\SelectionExcercise.csproj.CoreCompileInputs.cache
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\obj\Debug\netcoreapp3.1\SelectionExcercise.dll
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\obj\Debug\netcoreapp3.1\SelectionExcercise.pdb
+C:\Users\bishal\Desktop\repos\SelectionExcercise\SelectionExcercise\obj\Debug\netcoreapp3.1\SelectionExcercise.genruntimeconfig.cache
